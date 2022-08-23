@@ -23,7 +23,7 @@ resources:
   repositories:
     - repository: mlops-templates  # Template Repo
       name: Sam-Panda/mlops-templates # need to change org name from "Azure" to your own org
-      endpoint: github-connection # need to set up and hardcode
+      endpoint: sam-panda-gihub-connection # need to set up and hardcode
       type: github
 
 stages:
